@@ -51,7 +51,7 @@ function surat($surat){
             return "An Nahl - النحل";
             break;
         case 17:
-            return "Al Israa’   =  الإسراء";
+            return "Al Israa’   -  الإسراء";
             break;
         case 18:
             return "Al Kahfi - الكهف";
@@ -162,7 +162,7 @@ function surat($surat){
             return "An Najm - النجم";
             break;
         case 54:
-            return "Al Qamar  = القمر";
+            return "Al Qamar  - القمر";
             break;
         case 55:
             return "Ar Rahmaan - الرحمن";
@@ -246,7 +246,7 @@ function surat($surat){
             return "At Takwir - التكوير";
             break;
         case 82:
-            return "Al Infithar  =  الإنفطار";
+            return "Al Infithar  -  الإنفطار";
             break;
         case 83:
             return "Al Muthaffifin - المطففين";
@@ -267,7 +267,7 @@ function surat($surat){
             return "Al Ghaasyiah - الغاشية";
             break;
         case 89:
-            return "Al Fajr  = الفجر";
+            return "Al Fajr  - الفجر";
             break;
         case 90:
             return "Al Balad - البلد";
@@ -279,7 +279,7 @@ function surat($surat){
             return "Al Lail - الليل";
             break;
         case 93:
-            return "Adh Dhuhaa =  الضحى";
+            return "Adh Dhuhaa -  الضحى";
             break;
         case 94:
             return "Asy Syarh - الشرح";
@@ -306,10 +306,10 @@ function surat($surat){
             return "Al Qaari’ah - القارعة";
             break;
         case 102:
-            return "At Takaatsur  = التكاثر";
+            return "At Takaatsur  - التكاثر";
             break;
         case 103:
-            return "Al ‘Ashr  = العصر";
+            return "Al ‘Ashr  - العصر";
             break;
         case 104:
             return "Al Humazah - الهمزة";
@@ -336,7 +336,7 @@ function surat($surat){
             return "Al Lahab - اللهب";
             break;
         case 112:
-            return "Al Ikhlash  =  الإخلاص";
+            return "Al Ikhlash  -  الإخلاص";
             break;
         case 113:
             return "Al Falaq - الفلق";
