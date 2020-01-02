@@ -345,4 +345,352 @@ function surat($surat){
             return "An Naas - الناس";
             break;
     }
+
+}
+
+function SuratLatin($surat){
+    switch($surat){
+        case 1:
+            return "Al Fatihah";
+            break;
+        case 2:
+            return "Al Baqarah";
+            break;
+        case 3:
+            return "Ali Imran";
+            break;
+        case 4:
+            return "An Nisaa";
+            break;
+        case 5:
+            return "Al Maidah";
+            break;
+        case 6:
+            return "Al An’am";
+            break;
+        case 7:
+            return "Al A’raf";
+            break;
+        case 8:
+            return "Al Anfaal";
+            break;
+        case 9:
+            return "At Taubah";
+            break;
+        case 10:
+            return "Yunus";
+            break;
+        case 11:
+            return "Huud";
+            break;
+        case 12:
+            return "Yusuf";
+            break;
+        case 13:
+            return "Ar Ra’du";
+            break;
+        case 14:
+            return "Ibrahim";
+            break;
+        case 15:
+            return "Al Hijr";
+            break;
+        case 16:
+            return "An Nahl";
+            break;
+        case 17:
+            return "Al Israa’";
+            break;
+        case 18:
+            return "Al Kahfi";
+            break;
+        case 19:
+            return "Maryam";
+            break;
+        case 20:
+            return "Thaahaa";
+            break;
+        case 21:
+            return "Al Anbiyaa";
+            break;
+        case 22:
+            return "Al Hajj";
+            break;
+        case 23:
+            return "Al Mu’minun";
+            break;
+        case 24:
+            return "An Nuur";
+            break;
+        case 25:
+            return "Al Furqaan";
+            break;
+        case 26:
+            return "Asy Syu’ara";
+            break;
+        case 27:
+            return "An Naml";
+            break;
+        case 28:
+            return "Al Qashash";
+            break;
+        case 29:
+            return "Al ‘Ankabut";
+            break;
+        case 30:
+            return "Ar Ruum";
+            break;
+        case 31:
+            return "Luqman";
+            break;
+        case 32:
+            return "As Sajdah";
+            break;
+        case 33:
+            return "Al Ahzab";
+            break;
+        case 34:
+            return "Saba’";
+            break;
+        case 35:
+            return "Faathir";
+            break;
+        case 36:
+            return "Yaa Siin";
+            break;
+        case 37:
+            return "Ash Shaaffat";
+            break;
+        case 38:
+            return "Shaad";
+            break;
+        case 39:
+            return "Az Zumar";
+            break;
+        case 40:
+            return "Al Ghaafir";
+            break;
+        case 41:
+            return "Al Fushilat";
+            break;
+        case 42:
+            return "Asy Syuura";
+            break;
+        case 43:
+            return "Az Zukhruf";
+            break;
+        case 44:
+            return "Ad Dukhaan";
+            break;
+        case 45:
+            return "Al Jaatsiyah";
+            break;
+        case 46:
+            return "Al Ahqaaf";
+            break;
+        case 47:
+            return "Muhammad";
+            break;
+        case 48:
+            return "Al Fath";
+            break;
+        case 49:
+            return "Al Hujuraat";
+            break;
+        case 50:
+            return "Qaaf";
+            break;
+        case 51:
+            return "Adz Dzaariyaat";
+            break;
+        case 52:
+            return "Ath Thuur";
+            break;
+        case 53:
+            return "An Najm";
+            break;
+        case 54:
+            return "Al Qamar";
+            break;
+        case 55:
+            return "Ar Rahmaan";
+            break;
+        case 56:
+            return "Al Waaqi’ah";
+            break;
+        case 57:
+            return "Al Hadiid";
+            break;
+        case 58:
+            return "Al Mujaadalah";
+            break;
+        case 59:
+            return "Al Hasyr";
+            break;
+        case 60:
+            return "Al Mumtahanah";
+            break;
+        case 61:
+            return "Ash Shaff";
+            break;
+        case 62:
+            return "Al Jumuah";
+            break;
+        case 63:
+            return "Al Munafiqun";
+            break;
+        case 64:
+            return "Ath Taghabun";
+            break;
+        case 65:
+            return "Ath Thalaaq";
+            break;
+        case 66:
+            return "At Tahrim";
+            break;
+        case 67:
+            return "Al Mulk";
+            break;
+        case 68:
+            return "Al Qalam";
+            break;
+        case 69:
+            return "Al Haaqqah";
+            break;
+        case 70:
+            return "Al Ma’aarij";
+            break;
+        case 71:
+            return "Nuh";
+            break;
+        case 72:
+            return "Al Jin";
+            break;
+        case 73:
+            return "Al Muzammil";
+            break;
+        case 74:
+            return "Al Muddastir";
+            break;
+        case 75:
+            return "Al Qiyaamah";
+            break;
+        case 76:
+            return "Al Insaan";
+            break;
+        case 77:
+            return "Al Mursalaat";
+            break;
+        case 78:
+            return "An Naba’";
+            break;
+        case 79:
+            return "An Naazi’at";
+            break;
+        case 80:
+            return "‘Abasa";
+            break;
+        case 81:
+            return "At Takwir";
+            break;
+        case 82:
+            return "Al Infithar";
+            break;
+        case 83:
+            return "Al Muthaffifin";
+            break;
+        case 84:
+            return "Al Insyiqaq";
+            break;
+        case 85:
+            return "Al Buruuj";
+            break;
+        case 86:
+            return "Ath Thariq";
+            break;
+        case 87:
+            return "Al A’laa";
+            break;
+        case 88:
+            return "Al Ghaasyiah";
+            break;
+        case 89:
+            return "Al Fajr";
+            break;
+        case 90:
+            return "Al Balad";
+            break;
+        case 91:
+            return "Asy Syams";
+            break;
+        case 92:
+            return "Al Lail";
+            break;
+        case 93:
+            return "Adh Dhuhaa";
+            break;
+        case 94:
+            return "Asy Syarh";
+            break;
+        case 95:
+            return "At Tiin";
+            break;
+        case 96:
+            return "Al ‘Alaq";
+            break;
+        case 97:
+            return "Al Qadr";
+            break;
+        case 98:
+            return "Al Bayyinah";
+            break;
+        case 99:
+            return "Az Zalzalah";
+            break;
+        case 100:
+            return "Al ‘Aadiyah";
+            break;
+        case 101:
+            return "Al Qaari’ah";
+            break;
+        case 102:
+            return "At Takaatsur";
+            break;
+        case 103:
+            return "Al ‘Ashr";
+            break;
+        case 104:
+            return "Al Humazah";
+            break;
+        case 105:
+            return "Al Fiil";
+            break;
+        case 106:
+            return "Quraisy";
+            break;
+        case 107:
+            return "Al Maa’uun";
+            break;
+        case 108:
+            return "Al Kautsar";
+            break;
+        case 109:
+            return "Al Kafirun";
+            break;
+        case 110:
+            return "An Nashr";
+            break;
+        case 111:
+            return "Al Lahab";
+            break;
+        case 112:
+            return "Al Ikhlash";
+            break;
+        case 113:
+            return "Al Falaq";
+            break;
+        case 114:
+            return "An Naas";
+            break;
+    }
 }
